@@ -13,7 +13,7 @@ I'm a backend developer working with javascript technologies
 
 - Currently working on web back-end and system architecture.
 - To reach me: kaansoylev@gmail.com
-- 
+
 ---
 ### 🛠 &nbsp;Tech Stack :
 
